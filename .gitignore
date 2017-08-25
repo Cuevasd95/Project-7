@@ -1,0 +1,6 @@
+.DS_Store
+config.js
+package-lock.json
+package.json
+Procfile
+node_modules/
